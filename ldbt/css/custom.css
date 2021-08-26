@@ -39,7 +39,7 @@ body{
 }
 .menu ul li{
     display: inline-block;
-    padding: 15px 30px;
+    padding: 15px 10px;
 }
 .menu ul li a{
     font-size: 14px;
